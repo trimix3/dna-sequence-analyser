@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf370
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww24880\viewh16560\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf0 === DNA Sequence - Analyser ===\
+Contributors: Janis F. Kammann\
+Requires at least: Java JDK 7\
+License: GPLv2 or later\
+License URI: http://www.gnu.org/licenses/gpl-2.0.html\
+\
+== Description ==\
+\
+This Programm analyses a DNA sequence. It answers all questions mentioned at {\field{\*\fldinst{HYPERLINK "http://www.coding-contest.de/aufgaben-5-coco/"}}{\fldrslt http://www.coding-contest.de/aufgaben-5-coco/}}.\
+\
+== Installation ==\
+\
+This section describes how to install the plugin and get it working.\
+\
+Run the file MainWindow.java. (Path = de/codingContest/gui/)\
+\
+\
+== Screenshots ==\
+\
+}
